@@ -4,7 +4,7 @@ logger:
 #  default: info
   default: warning
   logs:
-    custom_components.ferroamp_operation_settings: debug
+    custom_components.volkswagen_we_connect_id: debug
 
 # If you need to debug uncomment the line below (doc: https://www.home-assistant.io/integrations/debugpy/)
 #debugpy:
